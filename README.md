@@ -1,7 +1,7 @@
 # Trainsquare
 ### Trainsquare is an educational and skills platform which allows its users to host their own in-person and online workshops as well as book courses, lessons and activities. Trainsquare is an MVP and due to the proprietary nature of the code I can only provide code snippets of my code. This repository contains SQL, .NET, and React code.
 
-My role as a software engineer was to implement the functionality of the administrator dashbaord. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
+My role as a software engineer was to implement the functionality of the administrator dashboard. I was required to handle all the coding from the backend to the frontend. Below is a list of the actions I took to accomplish my responsibilities.
 
 ● Developed and structured the administrator dashboard functionality from front-end to back-end.
 
